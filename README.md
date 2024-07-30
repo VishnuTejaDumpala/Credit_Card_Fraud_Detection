@@ -9,7 +9,7 @@ This project identifies :
 Number of Genuine transactions: 19936
 Number of Fraud transactions: 64
 Percentage of Fraud transactions: 0.3200
-####Accuracy :99.5 % (Random Forest Classifier)
+Accuracy :99.5 % (Random Forest Classifier)
 
 Introduction to Credit Card Fraud Detection:
 Credit card fraud occurs when unauthorized transactions are made using stolen or counterfeit credit card information. Fraudulent transactions can lead to financial losses for both credit card issuers and cardholders. Therefore, detecting and preventing fraud is essential to maintain trust in the banking system.
