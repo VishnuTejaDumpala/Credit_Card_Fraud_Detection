@@ -7,8 +7,11 @@ It is a critical application of data science that aims to identify and prevent f
 This project identifies :
 
 Number of Genuine transactions: 19936
+
 Number of Fraud transactions: 64
+
 Percentage of Fraud transactions: 0.3200
+
 Accuracy :99.5 % (Random Forest Classifier)
 
 Introduction to Credit Card Fraud Detection:
